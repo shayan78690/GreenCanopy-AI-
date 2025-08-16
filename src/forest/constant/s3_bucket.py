@@ -1,0 +1,2 @@
+TRAINING_BUCKET_NAME="shayanforest"
+PREDICTION_BUCKET_NAME="shayanforestpred"
